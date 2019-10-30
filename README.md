@@ -1,8 +1,10 @@
 # Dog-go - a productivity and fitness app for doggo lovers.
 
 ## General
-### About: Dog-go is a productivity app based around your virtual dog. You have to keep your dog happy by completing goals that you set for yourself, so they could be anything from "walking 1 mile a day" to "finishing homework before 10pm". 
-### Tech Stack: React, React Native, Expo, AsyncStorage
+### About: 
+Dog-go is a productivity app based around your virtual dog. You have to keep your dog happy by completing goals that you set for yourself, so they could be anything from "walking 1 mile a day" to "finishing homework before 10pm". 
+### Tech Stack: 
+React, React Native, Expo, AsyncStorage
 
 ## Screens:
 ### Screen 1: Home
