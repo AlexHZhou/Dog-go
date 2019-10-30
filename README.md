@@ -2,7 +2,7 @@
 
 ## General
 ### About: 
-Dog-go is a productivity app based around your virtual dog. You have to keep your dog happy by completing goals that you set for yourself, so they could be anything from "walking 1 mile a day" to "finishing homework before 10pm". 
+Dog-go is a productivity app based around your virtual dog. You have to keep your dog happy by completing goals that you set for yourself, so they could be anything from "walking 1 mile a day" to "finishing homework before 10pm". Finishing goals gives you treats or toys, which are used to feed or play with your dog. There is a streak incentive to keep up on finishing your daily goals.
 ### Tech Stack: 
 React, React Native, Expo, AsyncStorage
 
